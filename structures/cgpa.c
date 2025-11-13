@@ -1,3 +1,5 @@
+// Ansh Sonkusare 25070521082
+
 #include <stdio.h>
 
 // Define a simple structure for Student

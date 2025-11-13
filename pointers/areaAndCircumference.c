@@ -1,3 +1,5 @@
+// Ansh Sonkusare 25070521082
+
 #include<stdio.h>
 
 void area_peri(float, float*, float*);

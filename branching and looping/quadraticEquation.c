@@ -1,3 +1,5 @@
+// Ansh Sonkusare 25070521082
+
 #include <math.h>
 #include <stdio.h>
 
